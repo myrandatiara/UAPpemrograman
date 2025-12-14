@@ -17,28 +17,46 @@ ________________________________________
 7.	Di akhir permainan, skor akhir ditampilkan dan pemain dapat memilih untuk bermain kembali atau keluar.
 ________________________________________
 🧠 Fitur Utama
+
 •	Antarmuka interaktif berbasis terminal menggunakan ncurses
+
 •	Animasi teks pada tampilan judul permainan
+
 •	Pengacakan kata secara acak setiap soal
+
 •	Sistem penilaian (skor)
+
 •	Pilihan untuk bermain ulang
+
 •	Penggunaan warna untuk memperjelas tampilan permainan
 ________________________________________
 🛠️ Teknologi yang Digunakan
+
 •	Bahasa: C++
+
 •	Library UI: ncurses (antarmuka terminal)
+
 •	Format Data: Penyimpanan berbasis teks di data/stuff.txt
-•	Sistem Menu: Pemilihan interaktif berbasis keyboard________________________________________
+
+•	Sistem Menu: Pemilihan interaktif berbasis keyboard
+________________________________________
 ▶️ Cara Menjalankan Program
+
 1.	Pastikan library ncurses telah terpasang pada sistem.
-2.	Lakukan proses kompilasi program dengan perintah:
+2.	
+3.	Lakukan proses kompilasi program dengan perintah:
+4.	
  	gcc unscramble.c -o unscramble -lncurses
-3.	Jalankan program dengan perintah:
+
+6.	Jalankan program dengan perintah:
  	./unscramble
 ________________________________________
 📂 Struktur File
+
 UnScramble-Me/
+
 │── unscramble.c
+
 │── README.md
 ________________________________________
 📌 Penutup

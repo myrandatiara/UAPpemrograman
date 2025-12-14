@@ -68,7 +68,7 @@ int main(){
             clear();
 
             attron(COLOR_PAIR(1));
-            animasi("=== GAME SCRAMBLE ===\n");
+            animasi("=== UnScramble Me! ===\n");
             attroff(COLOR_PAIR(1));
 
             attron(COLOR_PAIR(2));
@@ -104,8 +104,12 @@ int main(){
 
         clear();
         attron(COLOR_PAIR(1));
-        printw("=== GAME SELESAI ===\n");
+        printw("=== YATTAAAA ===\n");
         attroff(COLOR_PAIR(1));
+
+        attron(COLOR_PAIR(3));
+        printw("Kamu Menamatkan nya!\n");
+        attroff(COLOR_PAIR(3));
 
         attron(COLOR_PAIR(5));
         printw("Skor Akhir: %d\n", skor);

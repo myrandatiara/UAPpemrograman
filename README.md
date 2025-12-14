@@ -1,9 +1,10 @@
-🎮 UnScramble Me!
+# 🎮 **UnScramble Me!**
 
-📌 Rangkuman Project
+## 📌 Rangkuman Project
 
-UnScramble Me! merupakan sebuah permainan kata sederhana berbasis bahasa C yang dijalankan melalui terminal dengan memanfaatkan library ncurses. Permainan ini menyajikan sebuah kata yang huruf-hurufnya telah diacak, kemudian pemain ditantang untuk menebak dan menyusun kembali kata tersebut menjadi kata yang benar.
-Kata-kata yang digunakan dalam permainan ini diambil dari istilah-istilah pada mata kuliah pemrograman, sehingga permainan ini tidak hanya bersifat hiburan, tetapi juga memiliki nilai edukatif. Melalui permainan ini, pemain diharapkan dapat meningkatkan kemampuan dalam mengenali, menyusun, serta memahami istilah-istilah pemrograman.
+        UnScramble Me! merupakan sebuah permainan kata sederhana berbasis bahasa C yang dijalankan melalui terminal dengan memanfaatkan library ncurses. Permainan ini menyajikan sebuah kata yang huruf-hurufnya telah diacak, kemudian pemain ditantang untuk menebak dan menyusun kembali kata tersebut menjadi kata yang benar.
+    
+        Kata-kata yang digunakan dalam permainan ini diambil dari istilah-istilah pada mata kuliah pemrograman, sehingga permainan ini tidak hanya bersifat hiburan, tetapi juga memiliki nilai edukatif. Melalui permainan ini, pemain diharapkan dapat meningkatkan kemampuan dalam mengenali, menyusun, serta memahami istilah-istilah pemrograman.
 ________________________________________
 🎯 Tujuan Project
 

@@ -1,17 +1,24 @@
-#include <ncurses\curses.h>
+#include <ncurses/curses.h>
+#include <string.h>
+#include <stdlib.h>
+#include <time.h>
 
-int main() {
-
-    initscr();
-    noecho();
-    curs_set(0);
-    keypad(stdscr, TRUE);
-
-    mvprintw(0,0 "SCRAMBLE FOR YOU");
-    refresh();
-
-    getch();
-
-    endwin();
-    return 0;
+void animasi(const char teks[]){
+    clear();
+    for(int i=0;i<strlen(teks);i++){
+        printw("%c", teks[i]);
+        refresh();
+        napms(40);
+    }
 }
+
+void acak(char kata[]){
+    int n = strlen(kata);
+    for(int i=0;i<n;i++){
+        int j = rand()%n;
+        char t = kata[i];
+        kata[i] = kata[j];
+        kata[j] = t;
+    }
+}
+

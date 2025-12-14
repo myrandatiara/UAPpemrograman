@@ -43,12 +43,11 @@ ________________________________________
 ▶️ Cara Menjalankan Program
 
 1.	Pastikan library ncurses telah terpasang pada sistem.
-2.	
-3.	Lakukan proses kompilasi program dengan perintah:
-4.	
- 	gcc unscramble.c -o unscramble -lncurses
 
-6.	Jalankan program dengan perintah:
+2.	Lakukan proses kompilasi program dengan perintah:
+ gcc unscramble.c -o unscramble -lncurses
+
+3.	Jalankan program dengan perintah:
  	./unscramble
 ________________________________________
 📂 Struktur File

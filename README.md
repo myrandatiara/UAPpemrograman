@@ -2,7 +2,7 @@
 
 ## 📌 Rangkuman Project
 
-        UnScramble Me! merupakan sebuah permainan kata sederhana berbasis bahasa C++ yang dijalankan melalui
+        UnScramble Me! adalah sebuah permainan kata sederhana berbasis bahasa C++ yang dijalankan melalui
     terminal dengan memanfaatkan library ncurses. Permainan ini menyajikan sebuah kata yang huruf-hurufnya
     telah diacak, kemudian pemain ditantang untuk menebak dan menyusun kembali kata tersebut menjadi kata
     yang benar.
@@ -60,6 +60,6 @@ ________________________________________
 
         Project UnScramble Me! diharapkan dapat menjadi media pembelajaran yang menarik dan interaktif,
     khususnya dalam mengenal sedikit kata-kata pemrograman. Selain itu, project ini juga melatih mahasiswa
-    dalam pengetahuan bahasa pemrograman. Kami menyadari masih banyak kekurangan dari projrct yang kami buat,
-    sehingga kritik dan saran sangat dibutuhkan untuk mengembangkan project ini. Sehinga bisa dapat lebih
-    bermanfaat di masa mendatang.
+    dalam pengetahuan bahasa pemrograman. Kami menyadari masih banyak kekurangan dari project kami ini,
+    sehingga kritik dan saran sangat dibutuhkan untuk mengembangkan project kami. Agar bisa lebih
+    bermanfaat untuk masa mendatang.
